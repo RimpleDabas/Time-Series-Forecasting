@@ -19,4 +19,10 @@ The objective of this project is to forecast passangers screening for rest of th
 - Mean Forecast Error (MFE)
 - Mean Bias Percentage 
 
+## Results and Analysis
+- Arima / Sarima 
+Despite data being stationary results were not satisfactory as suggested by the parameters (refer file [here](https://github.com/RimpleDabas/Time-Series-Forecasting/blob/main/ARIMA_SARIMAX.ipynb)) 
+- Exponential Smoothening
+![](Time Series Forecasting/Time-Series-Forecasting/Exponential Smoothening.png)
+
 
